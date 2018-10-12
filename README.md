@@ -1,4 +1,4 @@
-Learning GOLANG
+Learning GOLANG: Hello World Homework
 
 Run
 
